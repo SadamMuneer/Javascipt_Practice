@@ -16,11 +16,14 @@
 
   //2)  object / user define data types
 
-  const sadam = {
-    name: "ali",
-    class: "BSCS",
-    uni: "MNUSAM",
-  };
+  const sadam = [
+    {
+      name: "ali",
+      class: "BSCS",
+      uni: "MNUSAM",
+    },
+  ];
+
   console.log(sadam);
 
   // / for checking the data type
