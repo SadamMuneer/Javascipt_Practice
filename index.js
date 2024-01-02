@@ -33,9 +33,18 @@
   let z = 3.25;
   const p = true;
   let q = undefined;
+  let j = "Sadam";
   let r = null;
   console.log(x, y, x, p, q, r);
-  console.log(typeof x, typeof y, typeof x, typeof p, typeof q, typeof r);
+  console.log(
+    typeof x,
+    typeof y,
+    typeof x,
+    typeof p,
+    typeof q,
+    typeof r,
+    typeof j
+  );
 
   // interview question
   //  1) why type of null is object
