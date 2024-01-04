@@ -23,6 +23,13 @@
       uni: "MNUSAM",
     },
   ];
+  const sadamtwo = [
+    {
+      name: "sadam",
+      class: "BSCS",
+      uni: "MNUSAM",
+    },
+  ];
 
   console.log(sadam);
 
